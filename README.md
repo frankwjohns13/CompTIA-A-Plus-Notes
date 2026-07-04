@@ -10,6 +10,9 @@ My study notes for the CompTIA A+ certification.
 ## Core 2 (220-1202)
 [View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
 
+## Website
+[View website](https://frankwjohns13.github.io/)
+
 ---
 
 **Last Updated**: July 2026  
