@@ -2,7 +2,7 @@
 
 **CompTIA A+**
 
-My personal study notes for the CompTIA A+ certification.
+My study notes for the CompTIA A+ certification.
 
 ## Core 1 (220-1201)
 [View Core 1 Notes](https://github.com/frankwjohns13/Core-1-220-1201/)
