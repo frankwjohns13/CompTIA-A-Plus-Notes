@@ -1,6 +1,6 @@
-![CompTIA A+] (https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)
+![CompTIA A+ Badge](https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)
 
-# CompTIA A+ Notes
+**CompTIA A+**
 
 My personal study notes for the CompTIA A+ certification (Core 1 and Core 2).
 
