@@ -5,10 +5,10 @@
 My personal study notes for the CompTIA A+ certification.
 
 ## Core 1 (220-1201)
-[View Core 1 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
+[View Core 1 Notes](https://github.com/frankwjohns13/Core-1-220-1201/)
 
 ## Core 2 (220-1202)
-[View Core 2 Notes](https://github.com/frankwjohns13/Core-2-220-1202)
+[View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
 
 ---
 
